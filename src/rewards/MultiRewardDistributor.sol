@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: BSD-3-Clause
-pragma solidity 0.8.19;
+pragma solidity ^0.8.19;
 
 import {ReentrancyGuard} from "@openzeppelin-contracts/contracts/security/ReentrancyGuard.sol";
 import {Initializable} from "@openzeppelin-contracts/contracts/proxy/utils/Initializable.sol";

@@ -1,4 +1,4 @@
-pragma solidity 0.8.19;
+pragma solidity ^0.8.19;
 
 /// @notice contract to recover funds sent to an address that can be a smart contract
 contract Recovery {

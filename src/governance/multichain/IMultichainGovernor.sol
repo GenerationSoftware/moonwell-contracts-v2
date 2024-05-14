@@ -1,4 +1,4 @@
-pragma solidity 0.8.19;
+pragma solidity ^0.8.19;
 
 import {WormholeTrustedSender} from "@protocol/governance/WormholeTrustedSender.sol";
 

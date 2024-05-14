@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: BSD-3-Clause
-pragma solidity 0.8.19;
+pragma solidity ^0.8.19;
 
 import {BaseMoonwellViews} from "@protocol/views/BaseMoonwellViews.sol";
 import {IMultiRewardDistributor} from "@protocol/rewards/IMultiRewardDistributor.sol";

@@ -1,4 +1,4 @@
-pragma solidity 0.8.19;
+pragma solidity ^0.8.19;
 
 interface IStakedWellUplift {
     function EMISSION_MANAGER() external view returns (address);

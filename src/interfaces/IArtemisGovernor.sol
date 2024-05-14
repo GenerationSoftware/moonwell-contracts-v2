@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: GPL-3.0-or-later
-pragma solidity 0.8.19;
+pragma solidity ^0.8.19;
 
 interface IArtemisGovernor {
     /// @notice Possible states that a proposal may be in

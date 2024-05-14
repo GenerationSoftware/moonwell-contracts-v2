@@ -1,4 +1,4 @@
-pragma solidity 0.8.19;
+pragma solidity ^0.8.19;
 
 interface SnapshotInterface {
     /// @notice Gets the current votes balance for `account`

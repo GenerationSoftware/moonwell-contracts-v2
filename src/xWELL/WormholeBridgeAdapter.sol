@@ -1,4 +1,4 @@
-pragma solidity 0.8.19;
+pragma solidity ^0.8.19;
 
 import {xERC20BridgeAdapter} from "@protocol/xWELL/xERC20BridgeAdapter.sol";
 import {SafeCast} from "@openzeppelin-contracts/contracts/utils/math/SafeCast.sol";

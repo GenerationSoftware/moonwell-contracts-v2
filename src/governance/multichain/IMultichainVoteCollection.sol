@@ -1,4 +1,4 @@
-pragma solidity 0.8.19;
+pragma solidity ^0.8.19;
 
 /// @notice pauseable by the guardian
 /// @notice upgradeable, constructor disables implementation

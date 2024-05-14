@@ -1,5 +1,5 @@
 //SPDX-License-Identifier: GPL-3.0-or-later
-pragma solidity 0.8.19;
+pragma solidity ^0.8.19;
 
 import {ChainIds} from "@test/utils/ChainIds.sol";
 import {Addresses} from "@proposals/Addresses.sol";

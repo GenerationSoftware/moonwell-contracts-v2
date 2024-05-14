@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: AGPL-3.0
-pragma solidity 0.8.19;
+pragma solidity ^0.8.19;
 
 import {SafeTransferLib} from "solmate/utils/SafeTransferLib.sol";
 import {ERC4626} from "solmate/mixins/ERC4626.sol";
